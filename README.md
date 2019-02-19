@@ -1,4 +1,7 @@
+
 Shows what you're listening to on Google Play Music as a simple rich Discord status.
+
+After [setup](https://github.com/justJS/SimplePresence/wiki/setup), run:
 
 `npm run google`
 
