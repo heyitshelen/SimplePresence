@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/heyitshelen/SimplePresence/master/richpresenceexample.jpg)
 
 Shows what you're listening to on Google Play Music as a simple rich Discord status.
 
@@ -43,7 +44,7 @@ Get information on using these service [here](https://github.com/justdotJS/Simpl
 All instructions for setup, customization, and usage of SimplePresence are in our Wiki. [Press here to see it.](https://github.com/justdotJS/SimplePresence/wiki/)
 
 ## Thanks
-Thanks to **[devsnek](https://github.com/devsnek)** for his original Rich Presence example, which helped with much of the base code used for EasyRPC.
+Thanks to **[devsnek](https://github.com/devsnek)** for his original Rich Presence example, which helped with much of the base code used for EasyRPC.]
 
 Thanks to **Rung#9946** for the `Changing Images` section on the wiki.
 
