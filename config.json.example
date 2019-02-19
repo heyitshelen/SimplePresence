@@ -4,22 +4,18 @@
     "state": "adding more support"
   },
   "imageConfig": {
-    "smallKey": "nodejs",
-    "largeKey": "brackets",
-    "smallText": "node.js",
-    "largeText": "programming",
+    "smallKey": "pusheendj",
+    "largeKey": "pusheendj",
+    "smallText": "Google Play Music",
+    "largeText": "Listening to Google Play Music",
     "showButton": true
   },
-  "timeConfig": {
-    "timeType": "none",
-    "whatTime": "0s"
-  },
   "serviceConfig": {
-    "titlePrefix": "",
-    "artistPrefix": "",
-    "useUserInterface": true,
+    "titlePrefix": "🎵",
+    "artistPrefix": "🎤",
+    "useUserInterface": false,
     "useTimestamps": true,
-    "customClientID": "none",
+    "customClientID": "youridhere",
     "IMDB": {
       "defaultID": "tt3659388"
     },
@@ -35,5 +31,5 @@
       "username": ""
     }
   },
-  "clientID": "340755371629215744"
+  "clientID": "youridhere"
 }

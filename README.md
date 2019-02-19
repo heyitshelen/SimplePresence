@@ -1,3 +1,12 @@
+Shows what you're listening to on Google Play Music as a simple rich Discord status.
+
+`npm run google`
+
+ You can use the Windows task scheduler to run this app everytime Discord and Google Play Music are open.
+
+ TODO
+ - On song change, fetch album art dynamically and update the status picture
+
 ---
 
 [![Discord](https://img.shields.io/discord/268970339948691456.svg?style=flat-square&colorB=7289DA)](https://discord.gg/js)

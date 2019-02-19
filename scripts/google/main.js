@@ -96,7 +96,7 @@ async function setActivity() {
     return;
 
   var activity = {
-    largeImageKey: 'googleplay',
+    largeImageKey: config.imageConfig.largeKey || 'googleplay',
     largeImageText: 'Google Play Music',
     instance: false
   }
